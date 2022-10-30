@@ -2,7 +2,7 @@ public class today {
     // for the key, it takes a variable to be used and we are going to use day
    
     public static void main(String[] args) {
-        
+        //setting the string to a given day of the week, say Friday
         String day ="Friday";
         switch (day) {
             case Sunday:System.out.println("It's Sunday");
