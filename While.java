@@ -13,7 +13,7 @@ public class While {
 
             while(name.isBlank()){ //the isBlank() checks to see if the user enters a name other than that, it will continue looping until a string or name is entered
                 System.out.print("Enter your name:");// here a print statement is used instead of println
-                name = scanner.nextLine();
+                name = scanner.nextLine(); 
 
             }
             System.out.println("Hello "+ name); // prints out only when the program is false that's when the user enters the name 
