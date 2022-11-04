@@ -1,6 +1,6 @@
-package Polymorphism;
+package Polymorphism; 
 
-public class Circle extends twoDimensional {
+public class Circle extends twoDimensional {  //extending twoDimensions
     double diameter;
     double pie = 3.14;
 
