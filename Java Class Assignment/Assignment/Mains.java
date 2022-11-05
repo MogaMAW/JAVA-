@@ -1,4 +1,4 @@
-public class Mains {
+public class Mains { //this is function
     public static void main(String[] args) {
 
         Shapes shapes[] = new Shapes[8];
