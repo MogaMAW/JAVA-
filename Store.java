@@ -30,7 +30,7 @@ public class Store {
         for(int i(index)=0;
         i < rides.length;
         i++ incrementing i){
-            printing rides[i]
+            printing rides[i] printing all the elements according to order of index
         }
          */
         for(int i=0; i<rides.length;i++){
