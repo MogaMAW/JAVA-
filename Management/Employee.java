@@ -1,7 +1,7 @@
 package Management;
 
 /**
- * Employee
+ Employee
  */
 public class Employee extends StaffMember {
     private String name;
