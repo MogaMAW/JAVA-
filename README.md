@@ -1,3 +1,3 @@
 # JAVA-
 Inheritence 
-hjjk
+h
