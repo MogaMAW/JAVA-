@@ -44,7 +44,7 @@ public class Working extends  JFrame implements ActionListener{
         registerMenu= new JMenu("Register");
         exitMenu = new JMenu("Exit");
 
-        //Loading items to appear as the items selected horizontally
+        //Loading items to appear as the items selected horizontally.
 
         voterItem = new JMenuItem("voter");
         adminItem = new JMenuItem("Admin");
