@@ -79,7 +79,7 @@ public class Working extends  JFrame implements ActionListener{
 
         //setting letters to navigate MenuBar
         voterMenu.setMnemonic(KeyEvent.VK_V); //Alt + V for vote
-        adminMenu.setMnemonic(KeyEvent.VK_A); //Alt + V for admin
+        adminMenu.setMnemonic(KeyEvent.VK_A); //Alt + V for admin.
         registerMenu.setMnemonic(KeyEvent.VK_R); //Alt + V for register
         exitMenu.setMnemonic(KeyEvent.VK_E); //Alt + V for exit.
         
