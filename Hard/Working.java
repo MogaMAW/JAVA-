@@ -81,7 +81,7 @@ public class Working extends  JFrame implements ActionListener{
         voterMenu.setMnemonic(KeyEvent.VK_V); //Alt + V for vote
         adminMenu.setMnemonic(KeyEvent.VK_A); //Alt + V for admin
         registerMenu.setMnemonic(KeyEvent.VK_R); //Alt + V for register
-        exitMenu.setMnemonic(KeyEvent.VK_E); //Alt + V for exit
+        exitMenu.setMnemonic(KeyEvent.VK_E); //Alt + V for exit.
         
 
         //adding the menu bar items: items to appear horizontally 
