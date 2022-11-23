@@ -1,3 +1,3 @@
 # JAVA-
 Inheritence 
-kkjkj
+kkjk
