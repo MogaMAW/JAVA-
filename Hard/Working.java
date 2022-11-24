@@ -36,7 +36,7 @@ public class Working extends  JFrame implements ActionListener{
         this.setLayout(new FlowLayout());
         this.setVisible(true);
 
-        //placing menus using JMenuBar
+        //placing menus using JMenuBar.
         JMenuBar menuBar = new JMenuBar();
 
         voterMenu = new JMenu("Voter");
