@@ -10,6 +10,7 @@ public class Square extends twoDimensional {
 
     
     public int getArea() {
+        
         int area = length * length;
 
         return area;
