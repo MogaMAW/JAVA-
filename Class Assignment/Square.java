@@ -8,6 +8,7 @@ public class Square extends twoDimensional {
         this.length = length;
     }
 
+    
     public int getArea() {
         int area = length * length;
 
