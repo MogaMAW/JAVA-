@@ -14,6 +14,7 @@ public class Square extends twoDimensional {
         return area;
     }
 
+    
     public String toString() {
         return super.toString() + ". It has an area of " + this.getArea();
     }
