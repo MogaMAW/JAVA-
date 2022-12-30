@@ -16,7 +16,7 @@ public class Working extends  JFrame implements ActionListener{
     JMenuItem registerItem;
     JMenuItem exitItem;
 
-    //ImageIcon voterIcon;
+    // ImageIcon voterIcon;
 
     
 
