@@ -15,6 +15,7 @@ public class Student extends People {
         Age =age;
         RegNo=regno;
         AccessNo=accessno;
+
     }
 
 
