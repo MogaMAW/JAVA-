@@ -63,7 +63,7 @@ public class Working extends  JFrame implements ActionListener{
         // registerItem.setIcon(registerIcon);
         // exitItem.setIcon(exitIcon);
         
-        //making the items displayed under the menubar functional
+        //making the items displayed under the menubar functional.
         voterItem.addActionListener(this);
         adminItem.addActionListener(this);
         registerItem.addActionListener(this);
