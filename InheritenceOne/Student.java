@@ -1,4 +1,4 @@
-package InheritenceOne;
+package InheritenceOne; 
 
 public class Student extends People {
     private String Gender;
