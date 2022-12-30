@@ -51,7 +51,7 @@ public class Working extends  JFrame implements ActionListener{
         registerItem = new JMenuItem("register");
         exitItem = new JMenuItem("exit");
 
-        //adding items under the menu bar displayed 
+        //adding items under the menu bar displayed.
         voterMenu.add(voterItem);
         voterMenu.add(adminItem);
         voterMenu.add(registerItem);
