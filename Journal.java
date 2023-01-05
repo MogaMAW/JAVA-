@@ -5,6 +5,7 @@ public class Journal  extends Resource {
     public Journal(String c, String t, String i) {
         super(c, t);
         Issue = i;
+
     }
 
     public String Summary() {
