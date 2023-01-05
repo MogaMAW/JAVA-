@@ -25,7 +25,7 @@ public class Resource {
         if (isBorrowed == false) {
             s = s + " is in the library";
         } else {
-            s = s + " is not in the library";
+            s = s + "  is not in the library";
         }
 
         return s;
