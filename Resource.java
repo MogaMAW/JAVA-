@@ -16,6 +16,7 @@ public class Resource {
     public void returned() {
         isBorrowed = false;
 
+
     }
 
     public String summary() {
