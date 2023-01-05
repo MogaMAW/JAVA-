@@ -4,7 +4,7 @@ if statement to make comments on the user's input age
 
 
 import java.util.Scanner; // importing the Scanner class.
-public class ifStatements { //opening the main function
+public class ifStatements { //opening the main function.
     public static void main(String[] args) {
         //if statement = performs a block of code if it's condition evaluates to be true
 
