@@ -1,4 +1,4 @@
-public class Journal extends Resource {
+public class Journal  extends Resource {
 
     String Issue;
 
