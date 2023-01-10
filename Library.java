@@ -14,7 +14,6 @@ public class Library {
         System.out.println(resource2.summary());
 
     }
-
     public static void countBorrowedBooks(Resource resources) {
 
     }
