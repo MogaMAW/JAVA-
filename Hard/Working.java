@@ -21,8 +21,6 @@ public class Working extends  JFrame implements ActionListener{
     
 
 
-    
-
     Working(){
         //setting image icons
         //voterIcon = new ImageIcon("VoteIcon.jpg");
