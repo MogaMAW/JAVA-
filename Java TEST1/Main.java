@@ -6,7 +6,7 @@ public class Main {
         student.setId("S21B24/001");
         student.setGpa(4.89);
 
-        //displaying the name, id and gpa of the student 
+        //displaying the name, id and gpa of the student (Alex: S21B24/001 4.89 
         System.out.println(student);
     }
 }
